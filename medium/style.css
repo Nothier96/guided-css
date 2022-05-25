@@ -23,7 +23,8 @@
   background-color: beige;
 }
 .item img {
-  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 .item a {
   text-decoration: none;
